@@ -1,13 +1,16 @@
+ body {
+  margin: 0;
+ }
  header {
   text-align: center;
   background: url('https://c1.staticflickr.com/1/857/43227394184_9cf4104b80_b.jpg') no-repeat;
   height: auto;
   background-size: 1540px 400px;
   color: white;
-  position: fixed;
+ /* position: fixed;
   top: 0;
   left: 0;
-  right: 0;
+  right: 0;*/
   width: 100%;
 }
 a {
@@ -35,7 +38,7 @@ li {
 .first-article {
   max-width: 500px;
   padding: 20px;
-  margin-top: 412px;
+  margin-top: 30px;
   margin-bottom: 20px;
   border: 2px solid grey;
   box-shadow: 3px;
